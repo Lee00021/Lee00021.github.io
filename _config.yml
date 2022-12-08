@@ -215,7 +215,7 @@ defaults:
       show_subscribe: true
       pageview: true
   - scope:
-      path: "assets/images/logo"
+      path: "assets/images"
       values:
       image:true
 
