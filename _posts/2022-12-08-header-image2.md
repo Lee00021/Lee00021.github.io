@@ -6,7 +6,7 @@ article_header:
   image:
     src: /screenshot.jpg
 ---
-![이미지등록](assets/images/20200618_035754%203.png)
+![이미지등록](/assets/images/20200618_035754%203.png)
 
 
 ```java
